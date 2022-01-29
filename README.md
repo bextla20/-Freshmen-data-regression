@@ -20,10 +20,11 @@ For this study we have student's information for different ages. We have data wi
 **High School GPA** - This column contains GPA level of a student.
 
 A pairplot plot a pairwise relationships in a dataset. The pairplot function creates a grid of Axes such that each variable in data will by shared in the y-axis across a single row and in the x-axis across a single column. That creates plots as shown above.
+ ![Corr](https://github.com/bextla20/-Freshmen-data-regression/blob/main/Pairplot.png)
 
 In our dataset we do not have misssing value. There are some object type and l used dummy variable.
  Visualize correlation of our dataset, correlation matrix does not have high value correlation. That is why keep all features.
- ![Graph](https://github.com/bextla20/-Freshmen-data-regression/blob/main/corr.png)
+ ![Corr](https://github.com/bextla20/-Freshmen-data-regression/blob/main/corr.png)
 
 
 ## Finally 
@@ -33,4 +34,3 @@ We see mean absolute and Squared Error (0.750) is close eah other (0.756).
 
 R square is 0.294.
 
-https://github.com/bextla20/-Freshmen-data-regression/blob/main/corr.png
