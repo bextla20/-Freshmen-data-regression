@@ -23,7 +23,8 @@ A pairplot plot a pairwise relationships in a dataset. The pairplot function cre
 
 In our dataset we do not have misssing value. There are some object type and l used dummy variable.
  Visualize correlation of our dataset, correlation matrix does not have high value correlation. That is why keep all features.
- 
+ ![Graph](https://github.com/bextla20/-Freshmen-data-regression/blob/main/corr.png)
+
 
 ## Finally 
 I have used 3 regression metrics to estimate min error of freshmen Dataset. Linear model used and measured and visualized the performance of the models. 
@@ -31,3 +32,5 @@ I have used 3 regression metrics to estimate min error of freshmen Dataset. Line
 We see mean absolute and Squared Error (0.750) is close eah other (0.756).
 
 R square is 0.294.
+
+https://github.com/bextla20/-Freshmen-data-regression/blob/main/corr.png
