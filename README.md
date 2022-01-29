@@ -3,7 +3,7 @@ Predicting and understanding different key outcomes in a student’s academic tr
 
 For this study we have student's information for different ages. We have data with 8 columns.
 
-**GPA** - commonly used indicator of an individual's academic achievement in school.
+**GPA** - commonly used indicator of an individual's academic achievement in school and this is our terget.
 
 **Miles from Home** - Distance from home.
 
@@ -18,3 +18,14 @@ For this study we have student's information for different ages. We have data wi
 **Attends Office Hours** - It is show that student's office work during a week.
 
 **High School GPA** - This column contains GPA level of a student.
+
+In our dataset we do not have misssing value. There are some object type and l used dummy variable.
+ Visualize correlation of our dataset, correlation matrix does not have high value correlation. That is why keep all features.
+ 
+
+## Finally 
+I have used 3 regression metrics to estimate min error of freshmen Dataset. Linear model used and measured and visualized the performance of the models. 
+
+We see mean absolute and Squared Error (0.750) is close eah other (0.756).
+
+R square is 0.294.
